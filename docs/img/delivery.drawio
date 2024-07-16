@@ -1,0 +1,126 @@
+<mxfile host="65bd71144e">
+    <diagram id="_6exV60eM2H-4EFRE4C1" name="Страница 1">
+        <mxGraphModel dx="826" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-2" value="Доставить заказ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="170" width="390" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-3" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="280" as="sourcePoint"/>
+                        <mxPoint x="200" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-4" value="Сформированный заказ" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="250" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="469" y="550" as="sourcePoint"/>
+                        <mxPoint x="469" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Менеджер СД" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PJoJOOBmhRfdBGwInT31-7">
+                    <mxGeometry x="-0.7714" y="1" relative="1" as="geometry">
+                        <mxPoint x="7" y="36" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-8" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="387" y="550" as="sourcePoint"/>
+                        <mxPoint x="387" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="302" y="550" as="sourcePoint"/>
+                        <mxPoint x="302" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-10" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="550" as="sourcePoint"/>
+                        <mxPoint x="220" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-15" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="540" y="550" as="sourcePoint"/>
+                        <mxPoint x="540" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-18" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="60" as="sourcePoint"/>
+                        <mxPoint x="240" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-25" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="339" y="60" as="sourcePoint"/>
+                        <mxPoint x="339" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-27" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="60" as="sourcePoint"/>
+                        <mxPoint x="440" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PJoJOOBmhRfdBGwInT31-29" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="590" y="280" as="sourcePoint"/>
+                        <mxPoint x="750" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Состав&lt;br&gt;заказа" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="216" y="30" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Время&amp;nbsp;&lt;br&gt;доставки" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="317" y="30" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Контакты &lt;br&gt;покупателя" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="28" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Отчет о доставке заказа" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="250" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Курьер" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="560" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Менеджер&lt;br&gt;магазина" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="560" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;Ме&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="560" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Склад" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="560" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="514" y="61" as="sourcePoint"/>
+                        <mxPoint x="514" y="171" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Схема &lt;br&gt;маршрутов" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="29" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="CRM-система" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="560" width="90" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="580" y="550" as="sourcePoint"/>
+                        <mxPoint x="580" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="Покупатель" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="560" width="80" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
