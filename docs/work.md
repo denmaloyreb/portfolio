@@ -31,7 +31,7 @@
 
 Примеры работ:
 
-**Инструкции (руководства):**
+**Инструкции, руководства:**
 
 [Продвижение сайта самостоятельно — инструкция по SEO с нуля](https://studiobit.ru/blog/seo-and-reklama/seo-prodvizhenie-sayta-samostoyatelno/)
 
@@ -39,7 +39,7 @@
 
 [НАСТРАИВАЕМ ТЕРМИНАЛЬНЫЙ СЕРВЕР НА ПРИМЕРЕ ОС WINDOWS SERVER 2012 R2](https://www.itmain.ru/terminalnij-server-2012-r2.html)
 
-**Информационные статьи**
+**Информационные статьи:**
 
 [Управление пользователями баз данных](https://rt-solar.ru/products/solar_inrights/blog/2340/)
 
