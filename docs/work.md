@@ -20,7 +20,7 @@
 - Участвовал в процессах ревью спецификаций и другой документации.
 - Настраивал, правил пайплайны сборки и публикации документации.
 
-Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к `Reindexer` через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`.
+Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к `Reindexer` через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`, `GitLab`, `Github`, `Open API`, `Swagger`, `GraphQL`.
 
 ## IT-Копирайтер, фрилансер. ИП
 
