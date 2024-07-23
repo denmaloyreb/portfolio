@@ -20,7 +20,7 @@
 - Участвовал в процессах ревью спецификаций и другой документации.
 - Настраивал, правил пайплайны сборки и публикации документации.
 
-Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к `Reindexer` через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`, `GitLab`, `Github`, `Open API`, `Swagger`, `GraphQL`.
+Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к `Reindexer` через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`, `GitLab`, `Github`, `Open API`, `Swagger`, `GraphQL`, продукты `Atlassian`.
 
 ## IT-Копирайтер, фрилансер. ИП
 
@@ -60,11 +60,7 @@
 Июнь 2012 — Январь 2015.
 
 Создание контента разных типов для клиентов контент-агентства.
-Написание новостей и материалов для крупнейшего в Беларуси (на тот момент) портала для SEO-специалистов.
-
-Пример:
-
-[Тестирование сервисов для определения уникальности текстов](http://protext.by/blog/o-kopirajtinge-vserez/advego-plagiatus-sucks/)
+Написание новостей и материалов для крупнейшего в Беларуси (на тот момент) портала для SEO-специалистов raskrutka.by.
 
 ## Военнослужащий (учеба, прохождение службы на офицерских должностях)
 
