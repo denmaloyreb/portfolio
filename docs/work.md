@@ -10,7 +10,7 @@
 
 Обязанности и достижения:
 
-- Организовал процессы создания документации для [in-memory СУБД Reindexer](https://reindexer.io/reindexer-docs/).
+- Организовал процессы создания документации для отечественной in-memory СУБД.
 Сейчас разработчики участвуют в подготовке документации совместно с техническими писателями.
 - Организовал процесс документирования `GraphQL API` (ранее в компании не использовался).
 Создал описания для `GraphiQL Playground`, добавил в базу знаний для разработчиков ознакомительный раздел для быстрого старта при работе с `GraphQL API`.
@@ -20,7 +20,7 @@
 - Участвовал в процессах ревью спецификаций и другой документации.
 - Настраивал, правил пайплайны сборки и публикации документации.
 
-Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к `Reindexer` через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`, `GitLab`, `Github`, `Open API`, `Swagger`, `GraphQL`, продукты `Atlassian`.
+Работал с: `Docs as code`, `Foliant` (`MkDocs`, `Hugo`, `Slate`), `Docker`, `Java` (чтение кода), `Golang` (чтение кода, написание запросов к документируемой мной in-memory СУБД через Go-коннектор), `PlantUML`, `Graphviz`, `Docsify`, `Liquibase`, `SQL`, `Bash`, `Markdown`, `DBeaver`, `Draw.io`, `HTML`, `CSS`, `JavaScript`, `Postman`, `GitLab`, `Github`, `Open API`, `Swagger`, `GraphQL`, продукты `Atlassian`.
 
 ## IT-Копирайтер, фрилансер. ИП
 
