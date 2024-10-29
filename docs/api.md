@@ -15,7 +15,8 @@
 [Пример](https://app.swaggerhub.com/apis/DENMALOYREB3/Mobile_operator/1.0.0) фрагмента API в рамках учебного проекта (контекст — при личном общении).
 Еще [пример](https://app.swaggerhub.com/apis/DENMALOYREB3/cinema3/1).
 
+Создал [бесплатный курс](https://t.me/pro_techwriting/88) по проектированию и документированию API в своем телеграм-канале.
+
 ## GraphQL API
 
 Есть опыт организации документирования GraphQL API с нуля: описания для GraphiQL Playground, генерация статического сайта-справочника (с помощью `SpeqtaQL`), гайда для разработчиков по быстрому старту и работе с GraphQL API.
-
