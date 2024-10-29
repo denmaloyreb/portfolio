@@ -1,6 +1,6 @@
 # API: документирование и проектирование
 
-Знаком с особенностями принципами работы разных типов API: HTTP API (в т.ч. REST), GraphQL API, SOAP, gRPC, Webhooksи т.д.
+Знаком с особенностями принципами работы разных API: HTTP API (в т.ч. REST), GraphQL API, SOAP, gRPC, Webhooks и т.д.
 
 Есть опыт документирования HTTP API (в т.ч. REST), GraphQL API, gRPC API.
 
